@@ -9,7 +9,7 @@ const HeroSection = () => {
         src={"/Star6.svg"}
         width={400}
         height={400}
-        className="absolute top-[-9%]  right-0   -z-10"
+        className="absolute top-[-9%]  right-[5%]   -z-10"
       />
 
       <h1 className="font-bold text-[42px] text-white w-[1200px]">
